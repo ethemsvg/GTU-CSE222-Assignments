@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"homework2","l":"Account"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"homework2","l":"Comment"},{"p":"homework2","l":"Interaction"},{"p":"homework2","l":"LDLinkedList"},{"p":"homework2","l":"Like"},{"p":"homework2","l":"Main"},{"p":"homework2","l":"Message"},{"p":"homework2","l":"Post"}];updateSearchResults();
